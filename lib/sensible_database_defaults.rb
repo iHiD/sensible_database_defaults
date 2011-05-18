@@ -1,0 +1,3 @@
+module SensibleDatabaseDefaults
+  # Your code goes here...
+end

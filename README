@@ -1,0 +1,4 @@
+Sensible database defaults for ActiveRecord.
+
+* Sets columns to be null by default.
+* Sets timestamps to not be null.
